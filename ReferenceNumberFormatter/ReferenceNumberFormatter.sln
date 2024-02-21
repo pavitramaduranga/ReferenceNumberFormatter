@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceNumberFormatter", "ReferenceNumberFormatter.csproj", "{67B3D9A8-07FF-4734-9A09-47B213804493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceNumberFormatterTests", "..\ReferenceNumberFormatterTests\ReferenceNumberFormatterTests.csproj", "{8ECD015A-CB43-4DF5-A190-34E32ED21F47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67B3D9A8-07FF-4734-9A09-47B213804493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B3D9A8-07FF-4734-9A09-47B213804493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B3D9A8-07FF-4734-9A09-47B213804493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B3D9A8-07FF-4734-9A09-47B213804493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ECD015A-CB43-4DF5-A190-34E32ED21F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECD015A-CB43-4DF5-A190-34E32ED21F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECD015A-CB43-4DF5-A190-34E32ED21F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECD015A-CB43-4DF5-A190-34E32ED21F47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0704C881-99A5-40DA-A7A8-A0A9F78EE039}
+	EndGlobalSection
+EndGlobal
